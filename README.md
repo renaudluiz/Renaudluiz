@@ -16,9 +16,11 @@
 
 -[Santander Bootcamp 2023 - Ciência de Dados com Python](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)
 
+-[Automação de Testes com Robot Framework - Avançado](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/)
+
+
 #### Em andamento
 
--[Automação de Testes com Robot Framework - Avançado](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/)
 
 
 ## Tecnologias
